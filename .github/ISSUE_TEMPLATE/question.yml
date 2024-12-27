@@ -9,7 +9,7 @@ body:
       value: |
         **Got a question? Ask away! 🤔**
 
-        Before asking, please make sure your question hasn't been answered already in [open/closed issues](https://github.com/{{repository_owner}}/{{repository_name}}/issues).
+        Before asking, please make sure your question hasn't been answered already. 😃
 
   - type: textarea
     id: question-description

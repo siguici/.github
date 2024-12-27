@@ -9,7 +9,7 @@ body:
       value: |
         **Thanks for suggesting a new feature! 😊**
 
-        Please make sure this feature request hasn't already been submitted by searching through [open/closed issues](https://github.com/{{repository_owner}}/{{repository_name}}/issues).
+        Please make sure this feature request hasn't already been submitted. 😃
 
   - type: textarea
     id: feature-description

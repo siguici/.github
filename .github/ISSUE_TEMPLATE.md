@@ -1,11 +1,3 @@
-# 🚫 Blank Issue
-
-**This is a blank issue template.**
-
-Please describe your problem, request, or feedback below:
-
----
-
 ## Description
 
 _Provide a clear and concise description of the issue._
