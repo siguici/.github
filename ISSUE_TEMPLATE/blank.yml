@@ -1,5 +1,9 @@
 name: "🚫 Blank Issue"
 description: Create an issue without a template
 title: "[BLANK]: "
-
-body: []
+labels: ["untriaged"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a blank issue. Please describe your problem, request, or feedback clearly.

@@ -2,6 +2,7 @@ name: 🐛 Bug Report
 description: Report a bug or issue
 labels: ["bug"]
 title: "[BUG]: "
+assignees: [siguici]
 
 body:
   - type: markdown
