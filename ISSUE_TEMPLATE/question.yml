@@ -1,0 +1,27 @@
+name: ❓ Question
+description: Ask a question about the project
+labels: ["question"]
+title: "[QST]: "
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Got a question? Ask away! 🤔**
+
+        Before asking, please make sure your question hasn't been answered already in [open/closed issues](https://github.com/{{repository_owner}}/{{repository_name}}/issues).
+
+  - type: textarea
+    id: question-description
+    attributes:
+      label: "Your Question"
+      description: "Describe the question you're asking or the problem you're facing."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: "Additional Information"
+      description: "Provide any additional details that may help clarify your question (e.g. code snippets, error logs)."

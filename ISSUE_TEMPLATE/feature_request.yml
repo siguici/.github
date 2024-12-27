@@ -1,0 +1,43 @@
+name: ✨ Feature Request
+description: Request a new feature or enhancement
+labels: ["enhancement"]
+title: "[FEAT]: "
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for suggesting a new feature! 😊**
+        
+        Please make sure this feature request hasn't already been submitted by searching through [open/closed issues](https://github.com/{{repository_owner}}/{{repository_name}}/issues).
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: "Description"
+      description: "Provide a brief description of the feature or enhancement you would like to see."
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: "Use Cases"
+      description: "How would you or others use this feature?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solutions
+    attributes:
+      label: "Proposed Solutions"
+      description: "If you have any ideas for how this feature should be implemented, please share them!"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: "Additional Information"
+      description: "Provide any additional information, links, mockups, or context that might help the implementation of this feature."
