@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: 💬 Ask a Question
-    url: https://github.com/siguici/siguici/discussions/categories/q-a
-    about: "Have a question? Start a discussion in the **Q&A** category."
+    url: https://github.com/siguici/siguici/discussions
+    about: "Got a question? We're happy to help! Start a discussion in the relevant category."
 
   - name: 📄 Documentation Feedback
     url: https://github.com/siguici/siguici/issues/new
