@@ -1,8 +1,9 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Blank
-    template: .github/ISSUE_TEMPLATE/blank.yml
+  - name: 💬 Ask a Question
+    url: https://github.com/siguici/siguici/discussions/categories/q-a
+    about: "Have a question? Start a discussion in the **Q&A** category."
 
-  - name: Documentation issue
+  - name: 📄 Documentation Feedback
     url: https://github.com/siguici/siguici/issues/new
-    about: For documentation issues, open a pull request at the siguici/siguici repository
+    about: "Have feedback or found an issue in the documentation? Open a documentation issue here."
