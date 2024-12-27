@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Blank
+    template: .github/ISSUE_TEMPLATE/blank.yml
+
   - name: Documentation issue
-    url: https://github.com/siguici/siguici/issues/new/choose
+    url: https://github.com/siguici/siguici/issues/new
     about: For documentation issues, open a pull request at the siguici/siguici repository
