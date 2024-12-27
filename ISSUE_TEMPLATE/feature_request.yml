@@ -2,14 +2,13 @@ name: ✨ Feature Request
 description: Request a new feature or enhancement
 labels: ["enhancement"]
 title: "[FEAT]: "
-assignees: []
 
 body:
   - type: markdown
     attributes:
       value: |
         **Thanks for suggesting a new feature! 😊**
-        
+
         Please make sure this feature request hasn't already been submitted by searching through [open/closed issues](https://github.com/{{repository_owner}}/{{repository_name}}/issues).
 
   - type: textarea

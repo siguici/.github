@@ -2,7 +2,6 @@ name: ❓ Question
 description: Ask a question about the project
 labels: ["question"]
 title: "[QST]: "
-assignees: []
 
 body:
   - type: markdown

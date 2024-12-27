@@ -1,7 +1,5 @@
 name: "🚫 Blank Issue"
 description: Create an issue without a template
 title: "[BLANK]: "
-labels: []
-assignees: []
 
 body: []
